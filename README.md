@@ -1,1 +1,1 @@
-# hugo-blog
+# sangsterstory.github.io
